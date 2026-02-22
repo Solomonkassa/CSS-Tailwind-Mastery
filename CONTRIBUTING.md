@@ -25,7 +25,7 @@ Click the "Fork" button at the top of the repository.
 ### 2. Clone Your Fork
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/css-tailwind-mastery.git
+git clone https://github.com/Solomonkassa/css-tailwind-mastery.git
 cd css-tailwind-mastery
 ```
 
